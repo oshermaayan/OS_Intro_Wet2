@@ -1,6 +1,5 @@
 #ifndef Account.h
 #define Account_h
-
 #include <iostream>
 #include <ostream>
 #include <errno.h>
